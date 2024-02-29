@@ -6,7 +6,7 @@ instead, to run this use the provided script `gridmap.sh`.
 
 `gridmap.sh <locator>`
 
-This can be used to make maps at multiple scalse 
+This can be used to make maps at multiple scales 
 
 `gridmap IO`
 
